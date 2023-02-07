@@ -1,14 +1,16 @@
 # SQL_CASE_STUDY
 Finding insight from Walmart data using SQL
 
---This is the Schema we are going to using 
-week_date	     Date
-region	       VarChar
-platform	     VarChar
-segment	       VarChar
-customer_type	 VarChar
-transactions	 Int
-sales	         Int   
+--This is the Schema we are going to ue
+
+
+week_date	   -   Date,
+region	     -   VarChar,
+platform	   -   VarChar,
+segment	     -   VarChar,
+customer_type - 	VarChar,
+transactions	-  Int,
+sales	        -  Int ,   
 
 Qustions we are going to answer
 
