@@ -12,7 +12,7 @@ customer_type - 	VarChar,
 transactions	-  Int,
 sales	        -  Int ,   
 
-Qustions we are going to answer
+Qeustions we are going to answer
 
 1) In the first step we are going to seperate date column  in year, week number, month number  and going to change the segment as a particular age type
 
